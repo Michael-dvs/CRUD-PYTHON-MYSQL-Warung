@@ -34,6 +34,8 @@ Aplikasi CRUD (Create, Read, Update, Delete) berbasis GUI menggunakan Python (Tk
 - Ubah konfigurasi database (user, password, nama database) di setiap file Python sesuai dengan setup MySQL Anda.
 - Aplikasi ini cocok untuk pembelajaran CRUD dan pengelolaan data sederhana di toko/warung.
 
+## PENTING: JALANKAN PROGRAM DARI Home.py YANG BERADA PADA FOLDER build.
+
 ---
 
 Dibuat oleh Michael-dvs
